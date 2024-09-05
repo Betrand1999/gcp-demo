@@ -1,1 +1,1 @@
-## gcp-demo
+# Docker flask application writing in python it should be deploy to GKE
